@@ -7,4 +7,4 @@ University web programming tasks
 ## Live Preview
 
 View the project here:
-https://username.github.io/repository-name/
+https://mammadvalala-eng.github.io/Web-programming-lessons/flag.html
